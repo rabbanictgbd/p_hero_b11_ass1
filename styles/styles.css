@@ -77,3 +77,10 @@ button{
     background-color: rgb(238, 250, 187);
     border-radius: 10px;
 }
+
+table{
+    border: solid;
+}
+td, td{
+    border: solid;
+}
