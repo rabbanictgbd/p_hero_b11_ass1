@@ -86,7 +86,30 @@ button{
 
 table{
     border: solid;
+    border-collapse: collapse;
+    width: 100%;
 }
-td, td{
+td, th{
     border: solid;
+}
+th{
+    background-color: rgb(173, 245, 221);
+}
+
+.news_div{
+    border-radius: 10px;
+}
+.img_radius{
+    border-radius: 20px;
+}
+.text_center{
+    text-align: center;
+}
+.text_bold{
+    font-weight: 900;
+}
+
+.block{
+    display: flex;
+    align-items: center;
 }
