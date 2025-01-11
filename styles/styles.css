@@ -38,6 +38,7 @@
 }
 
 
+
 .comon_margin{
     margin: 5px;
     padding: 50px;
@@ -48,5 +49,31 @@ button{
     border-radius: 3px;
     border: none;
     color: white;
+    padding: 5px;
 
+}
+
+.center{
+    align-items: center;
+}
+
+.items_c_sky{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(201, 241, 248);
+    border-radius: 10px;
+}
+
+.items_c_green{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(174, 243, 189);
+    border-radius: 10px;
+}
+
+.items_c_gold{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(238, 250, 187);
+    border-radius: 10px;
 }
