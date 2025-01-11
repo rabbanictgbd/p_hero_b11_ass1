@@ -110,6 +110,17 @@ th{
 }
 
 .block{
-    display: flex;
+    display: block;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+}
+
+.block_btn{
+    display: block;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
     align-items: center;
 }
