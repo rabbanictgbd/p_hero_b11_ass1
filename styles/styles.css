@@ -1,0 +1,6 @@
+.flex_default{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
